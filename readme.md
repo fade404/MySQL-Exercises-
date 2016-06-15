@@ -1,4 +1,4 @@
-# Mini portal w którym:
+# Mini portal kinowy w którym:
 * Możemy dodać/usuwać kina, filmy, bilety i płatności
 * Możemy wyświetlać wszystkie kina wyszukując po nazwie
 * Możemy wyświetlać wszystkie filmy wyszukując po nazwie lub ratingu
